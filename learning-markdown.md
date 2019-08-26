@@ -7,14 +7,14 @@
 *italic text*
 **bold text**
 
-+ Also lists are intresting
++ Also lists are intresting.
   + Space and tab for another section.
-    +And you can obviously keep going.
       + This is an unordered list.
+        +And you can keep two spacing to indent and add more notes per bullet.
   
 <ol>
  <li>Lists can also be numbered using the number one.</li><br>
- <li>Pretty self explanatory.</li><br>
+   <li>Pretty self explanatory.</li><br>
  <li>Just testing this out</li><br>
- <li> To see what happens.</li>
+   <li> To see what happens.</li>
 </ol>
