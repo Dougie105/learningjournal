@@ -1,4 +1,4 @@
-<h2><strong>My name is Terrell Douglas and this is my Github learning journal.</strong></h2>
+<h2><strong>My name is Terrell Douglas and this is my Github learning journal.</strong>
 
 <h1>What is a growth mindset?</h1>
 
