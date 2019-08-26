@@ -9,7 +9,7 @@
 
 *Also lists are intresting due to the fact that it is the italicization without an ending <br>
   *space and tab for another section. <br>
-  *and you can obviously keep going. <br>
+     *and you can obviously keep going. <br>
   *This is an unordered list.
   
 <ol>
