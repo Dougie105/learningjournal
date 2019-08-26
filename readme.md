@@ -1,10 +1,10 @@
-<h2>**My name is Terrell Douglas and this is my Github learning journal.**
+## **My name is Terrell Douglas and this is my Github learning journal.**
 
-<h1>What is a growth mindset?
+# What is a growth mindset?
 
 *Growth mindset is **keeping your mind open** to new ways of learning and being okay with **accepting failure** as part of your journey.*
 
-<h3>Staying in a **Growth Mindset!**
+### Staying in a **Growth Mindset!**
 
 <ol>
   <li>Never Give Up!</li>
@@ -12,4 +12,4 @@
   <li>Embrace challenges and learn from your mistakes!</li>
 </ol>
 
-<h3>[For more on growth mindset click this link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+### [For more on growth mindset click this link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
