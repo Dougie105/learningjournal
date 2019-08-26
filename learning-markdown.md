@@ -12,7 +12,9 @@
     *and you can obviously keep going.
   *This is an unordered list.
   
-1.Lists can also be numbered using the number one.
-2.Pretty self explanatory.
-  2a. Just testing this out
-    2aa. To see what happens.
+<ol>
+ <li>Lists can also be numbered using the number one.</li>
+ <li>Pretty self explanatory.</li>
+ <li>Just testing this out</li>
+ <li> To see what happens.</li>
+</ol>
