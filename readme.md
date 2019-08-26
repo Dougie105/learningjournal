@@ -4,8 +4,8 @@ Growth mindset is keeping your mond open to new ways of learning and being okay 
 
 <h3>Staying in a growth mindset.</h3>
 
-<nl>
+<ol>
   <li>Never Give Up!</li>
   <li>Ask For Help!</li>
   <li>Embrace challenges and learn from your mistakes!</li>
-</nl>
+</ol>
