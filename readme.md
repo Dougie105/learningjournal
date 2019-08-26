@@ -1,4 +1,4 @@
-## **My name is Terrell Douglas and this is my Github learning journal.**
+## My name is Terrell Douglas and this is my Github learning journal.
 
 # What is a growth mindset?
 
