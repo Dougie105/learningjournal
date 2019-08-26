@@ -2,15 +2,15 @@
 
 ## Here is what I learned today.
 
-### no. of Hashtags equil heading size. i.e. h2 = ##
+### no. of Hashtags equil heading size. i.e. h2 = Two hashtags
 
 *italic text*
 **bold text**
 
-*Also lists are intresting due to the fact that it is the italicization without an ending <br>
-  *space and tab for another section. <br>
-     *and you can obviously keep going. <br>
-  *This is an unordered list.
++ Also lists are intresting
+  + Space and tab for another section.
+    +And you can obviously keep going.
+      + This is an unordered list.
   
 <ol>
  <li>Lists can also be numbered using the number one.</li><br>
