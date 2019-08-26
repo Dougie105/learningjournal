@@ -1,8 +1,8 @@
-<h2><strong>My name is Terrell Douglas and this is my Github learning journal.</h2></strong>
+<h2><strong>My name is Terrell Douglas and this is my Github learning journal.</strong></h2>
 
 <h1>What is a growth mindset?</h1>
 
-<strong><em>Growth mindset is keeping your mind open to new ways of learning and being okay with accepting failure as part of your journey.</strong></em>
+<strong><em>Growth mindset is keeping your mind open to new ways of learning and being okay with accepting failure as part of your journey.</em></strong>
 
 <h3>Staying in a growth mindset.</h3>
 
