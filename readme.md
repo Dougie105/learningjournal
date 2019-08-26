@@ -2,8 +2,10 @@
 
 Growth mindset is keeping your mond open to new ways of learning and being okay with accepting failure as part of your journey.
 
-Staying in a growth mindset.
+<h3>Staying in a growth mindset.</h3>
 
-  Never Give Up!
-  Ask For Help!
-  Embrace challenges and learn from your mistakes!
+<nl>
+  <li>Never Give Up!</li>
+  <li>Ask For Help!</li>
+  <li>Embrace challenges and learn from your mistakes!</li>
+</nl>
