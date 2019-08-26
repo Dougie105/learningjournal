@@ -2,7 +2,7 @@
 
 <h1>What is a growth mindset?</h1>
 
-<strong><em>Growth mindset is keeping your mond open to new ways of learning and being okay with accepting failure as part of your journey.</strong></em>
+<strong><em>Growth mindset is keeping your mind open to new ways of learning and being okay with accepting failure as part of your journey.</strong></em>
 
 <h3>Staying in a growth mindset.</h3>
 
@@ -11,3 +11,6 @@
   <li>Ask For Help!</li>
   <li>Embrace challenges and learn from your mistakes!</li>
 </ol>
+
+<h3>For more on growth mindset click the link below</h3>
+https://www.atlassian.com/blog/inside-atlassian/growth-mindset
