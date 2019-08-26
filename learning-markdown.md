@@ -10,7 +10,7 @@
 + Also lists are intresting.
   + Space and tab for another section.
       + This is an unordered list.
-        +And you can keep two spacing to indent and add more notes per bullet.
+  +And you can keep two spacing to indent and add more notes per bullet.
   
 <ol>
  <li>Lists can also be numbered using the number one.</li><br>
