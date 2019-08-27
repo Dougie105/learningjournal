@@ -18,9 +18,10 @@
 1.Lists can also be numbered using the number one.
 
 2.Pretty self explanatory.
-  2.Just testing this out
 
-3.To see what happens.
+3.Just testing this out
+
+4.To see what happens.
 
 
 [link to YouTube!](http://youtube.com)
