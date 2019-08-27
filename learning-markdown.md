@@ -15,12 +15,11 @@
 
       +And you can keep two spacing to indent and add more notes per bullet.
   
-<ol>
- <li>Lists can also be numbered using the number one.</li><br>
-   <li>Pretty self explanatory.</li><br>
- <li>Just testing this out</li><br>
-   <li> To see what happens.</li>
-</ol>
+1.Lists can also be numbered using the number one.
+  1.Pretty self explanatory.
+    1.Just testing this out
+  1.To see what happens.
+
 
 [link to YouTube!](http://youtube.com)
 
