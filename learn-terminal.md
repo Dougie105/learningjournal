@@ -27,3 +27,10 @@ From what I gathered, It doesnt matter what text editer that you use as long as 
 1.Advantages of the terminal
 
 + *Easier to navigate through. 
+
+
+1. [Git vs Github](https://dougie105.github.io/learningjournal/git-vs-github)
+
+2. [Home](https://dougie105.github.io/learningjournal/)
+
+3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)

@@ -30,3 +30,10 @@ As Billy Connolly said:
 
 > Before you judge a man, walk a mile in his shoes. After that who cares?
 > He’s a mile away and you’ve got his shoes!
+
+
+1. [Git vs Github](https://dougie105.github.io/learningjournal/git-vs-github)
+
+2. [Learn Terminal](https://dougie105.github.io/learningjournal/learn-terminal)
+
+3. [Home](https://dougie105.github.io/learningjournal/)

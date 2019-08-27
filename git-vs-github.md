@@ -32,3 +32,9 @@
 # Cloning
 
 * By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project. *
+
+1. [Home](https://dougie105.github.io/learningjournal/)
+
+2. [Learn Terminal](https://dougie105.github.io/learningjournal/learn-terminal)
+
+3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)
