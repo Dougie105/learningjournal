@@ -38,3 +38,5 @@
 2. [Learn Terminal](https://dougie105.github.io/learningjournal/learn-terminal)
 
 3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)
+
+4. [Git ACP](https://dougie105.github.io/learningjournal/terminalhelp)

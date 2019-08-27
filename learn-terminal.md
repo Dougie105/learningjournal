@@ -34,3 +34,5 @@ From what I gathered, It doesnt matter what text editer that you use as long as 
 2. [Home](https://dougie105.github.io/learningjournal/)
 
 3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)
+
+4. [Git ACP](https://dougie105.github.io/learningjournal/terminalhelp)
