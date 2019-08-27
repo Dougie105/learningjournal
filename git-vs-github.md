@@ -1,4 +1,4 @@
-# Git
+## Git
 
 * version control system*
 
@@ -12,7 +12,7 @@
 
 * Keep all of your project files in one repository.
 
-# GitHub >completely different.
+## GitHub is a completely different thing.
 
 * A way to chare code with others.
 
@@ -27,7 +27,7 @@
 
 * With Git (version control) and GitHub (online code storage), you can
 
-  *Have teams working on the same code without messing others up.
+    * Have teams working on the same code without messing others up.
 
 # Cloning
 

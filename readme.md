@@ -1,4 +1,4 @@
-## My name is Terrell Douglas and this is my Github learning journal.
+## My name is Terrell Douglas and this is my Github learning journal!
 
 # What is a growth mindset?
 
@@ -6,15 +6,19 @@
 
 ### Staying in a **Growth Mindset!**
 
-<ol>
-  <li>Never Give Up!</li>
-  <li>Ask For Help!</li>
-  <li>Embrace challenges and learn from your mistakes!</li>
-</ol>
+* Never Give Up!
+* Ask For Help!
+* Embrace challenges and learn from your mistakes!
 
 ### [For more on growth mindset click this link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-&dragonfly
 
-`dragonfly`
+# Table Of Contents
 
+## Learning Journal
+
+1. [Git vs Github](https://dougie105.github.io/learningjournal/git-vs-github)
+
+2. [Learn Terminal](https://dougie105.github.io/learningjournal/learn-terminal)
+
+3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)
