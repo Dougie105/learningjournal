@@ -31,6 +31,9 @@ As Billy Connolly said:
 > Before you judge a man, walk a mile in his shoes. After that who cares?
 > He’s a mile away and you’ve got his shoes!
 
+# Table Of Contents
+
+## Learning Journal
 
 1. [Git vs Github](https://dougie105.github.io/learningjournal/git-vs-github)
 
@@ -39,3 +42,5 @@ As Billy Connolly said:
 3. [Home](https://dougie105.github.io/learningjournal/)
 
 4. [Git ACP](https://dougie105.github.io/learningjournal/terminalhelp)
+
+5. [Learning HTML5](https://dougie105.github.io/learningjournal/learninghtml)

@@ -23,6 +23,10 @@
 
 ## Git ACP (add commit push)
 
+# Table Of Contents
+
+## Learning Journal
+
 1. [Git vs Github](https://dougie105.github.io/learningjournal/git-vs-github)
 
 2. [Learn Terminal](https://dougie105.github.io/learningjournal/learn-terminal)
@@ -30,3 +34,5 @@
 3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)
 
 4. [Home](https://dougie105.github.io/learningjournal/)
+
+5. [Learning HTML5](https://dougie105.github.io/learningjournal/learninghtml)

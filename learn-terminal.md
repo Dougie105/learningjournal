@@ -28,6 +28,9 @@ From what I gathered, It doesnt matter what text editer that you use as long as 
 
 + *Easier to navigate through. 
 
+# Table Of Contents
+
+## Learning Journal
 
 1. [Git vs Github](https://dougie105.github.io/learningjournal/git-vs-github)
 
@@ -36,3 +39,5 @@ From what I gathered, It doesnt matter what text editer that you use as long as 
 3. [Learning Markdown](https://dougie105.github.io/learningjournal/learning-markdown)
 
 4. [Git ACP](https://dougie105.github.io/learningjournal/terminalhelp)
+
+5. [Learning HTML5](https://dougie105.github.io/learningjournal/learninghtml)
